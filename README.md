@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parshotamlal" alt="parshotamlal" /></a> </p>
 
-- 💬 Ask me about **React,nextjs,mongoDb**
-
 - 📫 How to reach me **parshotamworks@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
