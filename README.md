@@ -76,7 +76,7 @@
 
 ## 🚀 **Pinned Projects**:
 <p align="center">
-  <a href="https://github.com/parshotamlal/project1">
+  <a href="https://github.com/parshotamlal/portfolio.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=parshotamlal&repo=project1&theme=radical" />
   </a>
   <a href="https://github.com/parshotamlal/project2">
