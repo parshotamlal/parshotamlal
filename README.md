@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=FFA500&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Parshotam+Lal;A+Passionate+Fullstack+Developer;Welcome+to+my+GitHub+Profile!">
 </h1>
 
-<h3 align="center">🚀 Fullstack Developer | JavaScript | React | Node.js | AWS ☁️</h3>
+<h3 align="center">🚀 Fullstack Developer | JavaScript | React | Node.js </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parshotamlal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -13,9 +13,8 @@
 
 ### 🚀 **About Me**:
 - 🔭 Currently working on **Next.js, MERN, and AI-based projects**
-- 🌱 Learning **AI-powered automation and cloud technologies**
 - 📝 Writing blogs on [Dev.to](https://dev.to/)
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, AWS**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 - 📫 Reach me at **parshotamworks@gmail.com**
 - ⚡ Fun fact: **I love coding more than coffee! ☕**
 
@@ -34,7 +33,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ---
 
