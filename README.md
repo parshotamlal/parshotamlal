@@ -74,18 +74,6 @@
 
 ---
 
-## 🚀 **Pinned Projects**:
-<p align="center">
-  <a href="https://github.com/parshotamlal/portfolio.git">
-    <img src="https://github.com/parshotamlal/portfolio/blob/main/Screenshot%202025-03-14%20183701.png" width="500" height="300" />
-  </a>
-  <a href="https://github.com/parshotamlal/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parshotamlal&repo=project2&theme=radical" />
-  </a>
-  <a href="https://github.com/parshotamlal/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parshotamlal&repo=project3&theme=radical" />
-  </a>
-</p>
 
 ---
 
