@@ -85,7 +85,6 @@
     <img src="https://raw.githubusercontent.com/parshotamlal/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
   </a>
 </p>
-</style>
 
 
 ---
