@@ -87,7 +87,6 @@
 </p>
 
 <!-- Hover Effect Styling (only works on GitHub Profile if added in Markdown-compatible HTML) -->
-<style>
   a img {
     transition: transform 0.2s ease, filter 0.2s ease;
   }
