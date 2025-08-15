@@ -85,15 +85,6 @@
     <img src="https://raw.githubusercontent.com/parshotamlal/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
   </a>
 </p>
-
-<!-- Hover Effect Styling (only works on GitHub Profile if added in Markdown-compatible HTML) -->
-  a img {
-    transition: transform 0.2s ease, filter 0.2s ease;
-  }
-  a:hover img {
-    transform: scale(1.2);
-    filter: brightness(1.2);
-  }
 </style>
 
 
