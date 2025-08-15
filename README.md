@@ -58,12 +58,7 @@
 
 ---
 
-## 🏃‍♂️ **Real-time Coding Activity**:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=parshotamlal&theme=radical" alt="WakaTime Stats" />
-</p>
 
----
 
 ## 🐍 **3D Contribution Snake**:
 <p align="center">
