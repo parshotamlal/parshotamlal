@@ -13,7 +13,6 @@
 
 ### 🚀 **About Me**:
 - 🔭 Currently working on **Next.js, MERN, and AI-based projects**
-- 📝 Writing blogs on [Dev.to](https://dev.to/)
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 - 📫 Reach me at **parshotamworks@gmail.com**
 - ⚡ Fun fact: **I love coding more than coffee! ☕**
@@ -80,10 +79,39 @@
   <a href="https://linkedin.com/in/parshotam-singh-778028288" target="_blank" title="Connect with me on LinkedIn">
     <img src="https://raw.githubusercontent.com/parshotamlal/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  
-  <a href="https://dev.to/parshotamlal" target="_blank" title="Read my posts on Dev.to">
-    <img src="https://raw.githubusercontent.com/parshotamlal/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+
+  <!-- Social Links -->
+<p align="left">
+  <a 
+    href="https://twitter.com/parshotamsinghi" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    title="Follow me on Twitter"
+  >
+    <img 
+      src="https://raw.githubusercontent.com/parshotamlal/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+      alt="Twitter" 
+      height="30" 
+      width="40" 
+    />
   </a>
+
+  <a 
+    href="https://linkedin.com/in/parshotam-singh-778028288" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    title="Connect with me on LinkedIn"
+  >
+    <img 
+      src="https://raw.githubusercontent.com/parshotamlal/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      alt="LinkedIn" 
+      height="30" 
+      width="40" 
+    />
+  </a>
+</p>
+  
+
 </p>
 
 
