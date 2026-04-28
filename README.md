@@ -80,40 +80,19 @@
     <img src="https://raw.githubusercontent.com/parshotamlal/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
-  <!-- Social Links -->
+
+## 💬 **Let's Connect**:
+<!-- Social Links -->
+
 <p align="left">
-  <a 
-    href="https://twitter.com/parshotamsinghi" 
-    target="_blank" 
-    rel="noopener noreferrer"
-    title="Follow me on Twitter"
-  >
-    <img 
-      src="https://raw.githubusercontent.com/parshotamlal/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-      alt="Twitter" 
-      height="30" 
-      width="40" 
-    />
+  <a href="https://twitter.com/parshotamsinghi" target="_blank" rel="noopener noreferrer" title="Follow me on Twitter">
+    <img src="https://raw.githubusercontent.com/parshotamlal/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 
-  <a 
-    href="https://linkedin.com/in/parshotam-singh-778028288" 
-    target="_blank" 
-    rel="noopener noreferrer"
-    title="Connect with me on LinkedIn"
-  >
-    <img 
-      src="https://raw.githubusercontent.com/parshotamlal/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="LinkedIn" 
-      height="30" 
-      width="40" 
-    />
+  <a href="https://linkedin.com/in/parshotam-singh-778028288" target="_blank" rel="noopener noreferrer" title="Connect with me on LinkedIn">
+    <img src="https://raw.githubusercontent.com/parshotamlal/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
-  
-
-</p>
-
 
 ---
 
