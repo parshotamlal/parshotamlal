@@ -54,16 +54,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parshotamlal&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
-
----
-
-
-
-## 🐍 **3D Contribution Snake**:
-<p align="center">
-  <img src="https://github.com/parshotamlal/parshotamlal/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 
